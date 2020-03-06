@@ -1,0 +1,215 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`card renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "flexDirection": "row",
+      },
+      Object {
+        "backgroundColor": "#fff",
+        "margin": 14,
+        "marginBottom": 0,
+      },
+      Object {
+        "elevation": 5,
+        "shadowColor": "#000",
+        "shadowOffset": Object {
+          "height": 2,
+          "width": 0,
+        },
+        "shadowOpacity": 0.25,
+        "shadowRadius": 3.84,
+      },
+    ]
+  }
+>
+  <Image
+    source={
+      Object {
+        "uri": "https://pbs.twimg.com/profile_images/1216813945408966663/vkVajfRz_400x400.jpg",
+      }
+    }
+    style={
+      Array [
+        Object {
+          "flex": 2,
+          "height": 110,
+          "resizeMode": "cover",
+        },
+        Object {
+          "display": "flex",
+        },
+      ]
+    }
+  />
+  <View
+    style={
+      Array [
+        Object {
+          "flexDirection": "column",
+        },
+        Object {
+          "flex": 2,
+          "justifyContent": "center",
+          "margin": 20,
+        },
+      ]
+    }
+  >
+    <Text
+      style={
+        Object {
+          "fontSize": 15,
+          "fontWeight": "800",
+          "marginBottom": 14,
+        }
+      }
+    >
+      test
+    </Text>
+    <Text
+      style={Object {}}
+    >
+      by test
+    </Text>
+  </View>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "flex": 1,
+        "flexDirection": "column",
+        "justifyContent": "center",
+      }
+    }
+  >
+    <Image
+      source={
+        Object {
+          "uri": "https://image.flaticon.com/icons/png/512/16/16049.png",
+        }
+      }
+      style={
+        Array [
+          Object {
+            "height": 30,
+            "width": 30,
+          },
+          Object {
+            "display": "flex",
+          },
+        ]
+      }
+    />
+  </View>
+</View>
+`;
+
+exports[`renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "flexDirection": "row",
+      },
+      Object {
+        "backgroundColor": "#fff",
+        "margin": 14,
+        "marginBottom": 0,
+      },
+      Object {
+        "elevation": 5,
+        "shadowColor": "#000",
+        "shadowOffset": Object {
+          "height": 2,
+          "width": 0,
+        },
+        "shadowOpacity": 0.25,
+        "shadowRadius": 3.84,
+      },
+    ]
+  }
+>
+  <Image
+    source={
+      Object {
+        "uri": "https://pbs.twimg.com/profile_images/1216813945408966663/vkVajfRz_400x400.jpg",
+      }
+    }
+    style={
+      Array [
+        Object {
+          "flex": 2,
+          "height": 110,
+          "resizeMode": "cover",
+        },
+        Object {
+          "display": "flex",
+        },
+      ]
+    }
+  />
+  <View
+    style={
+      Array [
+        Object {
+          "flexDirection": "column",
+        },
+        Object {
+          "flex": 2,
+          "justifyContent": "center",
+          "margin": 20,
+        },
+      ]
+    }
+  >
+    <Text
+      style={
+        Object {
+          "fontSize": 15,
+          "fontWeight": "800",
+          "marginBottom": 14,
+        }
+      }
+    >
+      test
+    </Text>
+    <Text
+      style={Object {}}
+    >
+      by test
+    </Text>
+  </View>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "flex": 1,
+        "flexDirection": "column",
+        "justifyContent": "center",
+      }
+    }
+  >
+    <Image
+      source={
+        Object {
+          "uri": "https://image.flaticon.com/icons/png/512/16/16049.png",
+        }
+      }
+      style={
+        Array [
+          Object {
+            "height": 30,
+            "width": 30,
+          },
+          Object {
+            "display": "flex",
+          },
+        ]
+      }
+    />
+  </View>
+</View>
+`;
