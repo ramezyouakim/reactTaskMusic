@@ -4,6 +4,7 @@ import renderer from 'react-test-renderer';
 import Card from '../src/components/card';
 import api from '../src/api';
 
+//this is th wrong consipte i should test what i didi with the resutrned data  not if it returned or not 
 test('returns result if array', () => {
    api.getFeaturedPlaylists(0)
     .then(((onResponse) => {
